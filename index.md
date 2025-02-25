@@ -1,5 +1,6 @@
 ---
 title: Welcome to my blog
+layout: home
 ---
 
 # GitHub Pages Test Site

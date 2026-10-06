@@ -7,7 +7,7 @@ Welcome to my go at jekyll for gitlab pages. Where's the fun in wordpress when y
 
 ## Intros?
 
-I'm Dan. I work in Southwest London at a lab. I try and keep a lid on an ever-bubbling technocopia of IT and my enemy is complexity. Once upon a time I was but a lowly infrastructure engineer with a thirst for automation... Once I saw the state of """enterprise IT""" there, I was fuelled only by the gravitational potential energy of my jaw hitting the floor to do something about it.
+I'm Dan. I work in Southwest London at a lab. I try and keep a lid on an ever-bubbling technocopia of IT and my enemy is complexity. Once upon a time I was but a lowly infrastructure engineer with a thirst for automation... Once I saw the state of """enterprise IT""" there, motivation arrived to go beyond the tech. People and process is where it's at.
 
 One thing (many projects) lead to another (promotions) and now it's my job to make sure that IT is doing what the business needs in a sustainable and maintainable way.
 
